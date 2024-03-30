@@ -1,4 +1,4 @@
-# React Native Expo App with React Native Paper
+# Diner
 
 This repository contains a React Native app built using Expo and React Native Paper library. The app is designed to showcase the usage of React Native Paper components within a React Native Expo project.
 
